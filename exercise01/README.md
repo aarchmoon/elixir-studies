@@ -1,21 +1,5 @@
-# Example
+# Exercise: Student Register
 
-**TODO: Add description**
+A small CRUD to register students with name, register ID, enrollment and date of birth, also possible to search by name, delete, list all and edit all entries. 
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `example` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:example, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/example>.
-
+[Credits](https://x.com/sooftware_/status/1768733135313752563?s=20)
